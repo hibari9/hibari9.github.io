@@ -1,0 +1,404 @@
+{
+    "appointmentDriverList": {
+        "partPrice": [{
+            "intervalStartDistance": "10",
+            "includeTime": "0",
+            "distance": "1",
+            "price": "1004",
+            "includeDistance": "10",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "feeDistance": "10"
+        }],
+        "priceTactics": "0",
+        "partTimePrice": [{
+            "startTimeLong": "40",
+            "price": "100",
+            "startFee": "100",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "nextTimeLongFee": "2.2",
+            "nextTimeLong": "1"
+        }],
+        "nextWaitingTime": "1",
+        "nextWaitingPrice": "20",
+        "mileageSubject": [{
+            "next": "1",
+            "intervalStartDistance": "10",
+            "includeTime": "0",
+            "nextFee": "10",
+            "distance": "1",
+            "price": "1004",
+            "includeDistance": "10",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "feeDistance": "10"
+        }],
+        "version": "2.0",
+        "beforeWaitingTime": "10",
+        "nextDistince": "1",
+        "longDistanceFee": [{
+            "unitPrice": "30",
+            "basicMileage": "10",
+            "startTime": "00:00",
+            "unitMileage": "1",
+            "endTime": "23:59",
+            "feeType": "0",
+            "feeRatio": "0"
+        }],
+        "nextPrice": "10",
+        "maxTimeFee": "100",
+        "returnFee": {
+            "unitPrice": "30",
+            "basicMileage": "10",
+            "unitMileage": "1"
+        },
+        "extra": {
+            "extraServerFee": "0",
+            "customerInsurance": "0"
+        },
+        "distince": "10",
+        "surChargePrice": [],
+        "strategyInfo": {
+            "h5ShowTitle": "",
+            "feeMileagePlan": "1",
+            "h5ShowImg": "",
+            "h5ShowRule": ""
+        },
+        "isAcceptCity": "false",
+        "beforeWaitingPrice": "0",
+        "desc": ""
+    },
+    "code": "0",
+    "data": "",
+    "driverCreatePrice": {
+        "partPrice": [{
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "distance": "1",
+            "price": "22.2",
+            "includeDistance": "2",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "modifyFee": "0",
+            "feeDistance": "1.11"
+        }],
+        "priceTactics": "0",
+        "partTimePrice": [{
+            "startTimeLong": "2",
+            "price": "1.21",
+            "startFee": "1.21",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "nextTimeLongFee": "1.22",
+            "nextTimeLong": "1"
+        }],
+        "nextWaitingTime": "1",
+        "nextWaitingPrice": "2.1",
+        "mileageSubject": [{
+            "next": "1",
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "nextFee": "1.11",
+            "distance": "1",
+            "price": "22.2",
+            "includeDistance": "2",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "feeDistance": "1.11"
+        }],
+        "version": "2.0",
+        "beforeWaitingTime": "1",
+        "nextDistince": "1",
+        "longDistanceFee": [{
+            "unitPrice": "2.2",
+            "basicMileage": "10",
+            "startTime": "00:00",
+            "unitMileage": "1",
+            "endTime": "23:59",
+            "feeType": "0",
+            "feeRatio": "0"
+        }],
+        "nextPrice": "1.11",
+        "maxTimeFee": "200",
+        "returnFee": {
+            "unitPrice": "2.2",
+            "basicMileage": "10",
+            "unitMileage": "1"
+        },
+        "extra": {
+            "extraServerFee": "0",
+            "returnFee": {
+                "unitPrice": "2.2",
+                "basicMileage": "10",
+                "unitMileage": "1"
+            },
+            "customerInsurance": "0"
+        },
+        "distince": "2",
+        "surChargePrice": [],
+        "strategyInfo": {
+            "h5ShowTitle": "",
+            "feeMileagePlan": "1",
+            "h5ShowImg": "",
+            "h5ShowRule": ""
+        },
+        "isAcceptCity": "false",
+        "beforeWaitingPrice": "0",
+        "desc": ""
+    },
+    "city": "安阳",
+    "longDistancePriceList": {
+        "partPrice": [{
+            "intervalStartDistance": "10",
+            "includeTime": "0",
+            "distance": "1",
+            "price": "1005",
+            "includeDistance": "10",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "feeDistance": "10"
+        }],
+        "priceTactics": "0",
+        "partTimePrice": [{
+            "startTimeLong": "40",
+            "price": "100",
+            "startFee": "100",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "nextTimeLongFee": "2.2",
+            "nextTimeLong": "1"
+        }],
+        "nextWaitingTime": "1",
+        "nextWaitingPrice": "20",
+        "mileageSubject": [{
+            "next": "1",
+            "intervalStartDistance": "10",
+            "includeTime": "0",
+            "nextFee": "10",
+            "distance": "1",
+            "price": "1005",
+            "includeDistance": "10",
+            "part": "0-24",
+            "startTime": "00:00",
+            "endTime": "23:59",
+            "feeDistance": "10"
+        }],
+        "version": "2.0",
+        "beforeWaitingTime": "10",
+        "nextDistince": "1",
+        "longDistanceFee": [{
+            "unitPrice": "30",
+            "basicMileage": "10",
+            "startTime": "00:00",
+            "unitMileage": "1",
+            "endTime": "23:59",
+            "feeType": "0",
+            "feeRatio": "0"
+        }],
+        "nextPrice": "10",
+        "maxTimeFee": "100",
+        "returnFee": {
+            "unitPrice": "30",
+            "basicMileage": "10",
+            "unitMileage": "1"
+        },
+        "extra": {
+            "extraServerFee": "0",
+            "customerInsurance": "0"
+        },
+        "distince": "10",
+        "surChargePrice": [],
+        "strategyInfo": {
+            "h5ShowTitle": "",
+            "feeMileagePlan": "1",
+            "h5ShowImg": "",
+            "h5ShowRule": ""
+        },
+        "isAcceptCity": "false",
+        "beforeWaitingPrice": "0",
+        "feeTime": "0",
+        "desc": ""
+    },
+    "shortDistancePriceList": {
+        "partPrice": [{
+            "visible": "1",
+            "price": "89",
+            "part": "00-07"
+        }, {
+            "visible": "1",
+            "price": "15.55",
+            "part": "07-22"
+        }, {
+            "visible": "1",
+            "price": "49",
+            "part": "22-23"
+        }, {
+            "visible": "1",
+            "price": "69",
+            "part": "23-24"
+        }],
+        "nextDistance": "10",
+        "basicDistance": "5",
+        "basicWaitingTime": "1",
+        "extra": {
+            "extraServerFee": "0",
+            "customerInsurance": "0"
+        },
+        "nextWaitingTime": "15",
+        "nextWaitingPrice": "10",
+        "basicWaitingPrice": "0",
+        "cityId": "1",
+        "nextPrice": "19"
+    },
+    "isVipPrice": "false",
+    "cancelFeePrice": {
+        "calculator": {
+            "freeMinute": "3",
+            "feeStep": "3",
+            "minuteStep": "2",
+            "maxFee": "3",
+            "infoFeeRate": "0.2"
+        },
+        "isOpen": "1"
+    },
+    "message": "价格表",
+    "femalePriceList": {
+        "partPrice": [{
+            "price": "119",
+            "part": "0-24"
+        }],
+        "nextDistance": "3",
+        "distance": "5",
+        "extra": {
+            "extraServerFee": "0",
+            "customerInsurance": "0"
+        },
+        "surChargePrice": [],
+        "beforeWaitingTime": "0",
+        "isAcceptCity": "false",
+        "beforeWaitingPrice": "19",
+        "feeTime": "0",
+        "nextPrice": "19.3"
+    },
+    "priceList": {
+        "partPrice": [{
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "distance": "2",
+            "price": "20",
+            "includeDistance": "2",
+            "part": "0-16",
+            "startTime": "00:00",
+            "endTime": "15:29",
+            "feeDistance": "0.1"
+        }, {
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "distance": "2",
+            "price": "20",
+            "includeDistance": "2",
+            "part": "15-24",
+            "startTime": "15:30",
+            "endTime": "23:59",
+            "feeDistance": "0.2"
+        }],
+        "priceTactics": "0",
+        "partTimePrice": [{
+            "startTimeLong": "0",
+            "price": "0",
+            "startFee": "0",
+            "startTime": "00:00",
+            "endTime": "15:29",
+            "nextTimeLongFee": "0.1",
+            "nextTimeLong": "1"
+        }, {
+            "startTimeLong": "0",
+            "price": "0",
+            "startFee": "0",
+            "startTime": "15:30",
+            "endTime": "23:59",
+            "nextTimeLongFee": "0.2",
+            "nextTimeLong": "2"
+        }],
+        "nextWaitingTime": "1",
+        "nextWaitingPrice": "1",
+        "mileageSubject": [{
+            "next": "2",
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "nextFee": "0.1",
+            "distance": "2",
+            "price": "20",
+            "includeDistance": "2",
+            "part": "0-16",
+            "startTime": "00:00",
+            "endTime": "15:29",
+            "feeDistance": "0.1"
+        }, {
+            "next": "2",
+            "intervalStartDistance": "2",
+            "includeTime": "0",
+            "nextFee": "0.2",
+            "distance": "2",
+            "price": "20",
+            "includeDistance": "2",
+            "part": "15-24",
+            "startTime": "15:30",
+            "endTime": "23:59",
+            "feeDistance": "0.2"
+        }],
+        "version": "2.0",
+        "beforeWaitingTime": "0",
+        "nextDistince": "2",
+        "longDistanceFee": [{
+            "unitPrice": "0.1",
+            "basicMileage": "2",
+            "startTime": "00:00",
+            "unitMileage": "2",
+            "endTime": "15:29",
+            "feeType": "1",
+            "feeRatio": "0"
+        }, {
+            "unitPrice": "0.2",
+            "basicMileage": "2",
+            "startTime": "15:30",
+            "unitMileage": "2",
+            "endTime": "23:59",
+            "feeType": "1",
+            "feeRatio": "0"
+        }],
+        "nextPrice": "0.1",
+        "maxTimeFee": "10",
+        "returnFee": {
+            "unitPrice": "0.1",
+            "basicMileage": "2",
+            "unitMileage": "2"
+        },
+        "extra": {
+            "extraServerFee": "0",
+            "returnFee": {
+                "unitPrice": "0.1",
+                "basicMileage": "2",
+                "unitMileage": "2"
+            },
+            "customerInsurance": "0"
+        },
+        "distince": "2",
+        "surChargePrice": [],
+        "strategyInfo": {
+            "h5ShowTitle": "",
+            "feeMileagePlan": "1",
+            "h5ShowImg": "",
+            "h5ShowRule": ""
+        },
+        "isAcceptCity": "false",
+        "beforeWaitingPrice": "0",
+        "desc": ""
+    }
+}
