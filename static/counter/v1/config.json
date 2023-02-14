@@ -1,0 +1,86 @@
+{
+    "version": "1.0.0",
+    "data": [{
+        "gameType": 5,
+        "icon": "icon_type_象棋",
+        "name": "中国象棋",
+        "allWays": [{
+            "name": "2人玩法",
+            "type": 1,
+            "isSelect": 1
+        }, {
+            "name": "竖屏方向",
+            "type": 16,
+            "isSelect": 0
+        }, {
+            "name": "竖屏反转",
+            "type": 17,
+            "isSelect": 0
+        }],
+        "selectWays": [{
+            "name": "2人玩法",
+            "type": 1,
+            "isSelect": 1
+        }]
+    }, {
+        "gameType": 0,
+        "icon": "icon_type_斗",
+        "name": "斗地主",
+        "allWays": [{
+            "name": "默认玩法",
+            "type": 0,
+            "isSelect": 1
+        }, {
+            "name": "2人玩法",
+            "type": 1,
+            "isSelect": 0
+        }, {
+            "name": "无345",
+            "type": 2,
+            "isSelect": 0
+        }, {
+            "name": "临汾玩法",
+            "type": 6,
+            "isSelect": 0
+        }, {
+            "name": "竖屏方向",
+            "type": 16,
+            "isSelect": 0
+        }, {
+            "name": "竖屏反转",
+            "type": 17,
+            "isSelect": 0
+        }],
+        "selectWays": [{
+            "name": "默认玩法",
+            "type": 0,
+            "isSelect": 1
+        }]
+    }, {
+        "gameType": 4,
+        "icon": "icon_type_自定义",
+        "name": "自定义玩法",
+        "allWays": [{
+            "name": "默认玩法",
+            "type": 0,
+            "isSelect": 1
+        }, {
+            "name": "对家明牌",
+            "type": 11,
+            "isSelect": 0
+        }, {
+            "name": "竖屏方向",
+            "type": 16,
+            "isSelect": 0
+        }, {
+            "name": "竖屏反转",
+            "type": 17,
+            "isSelect": 0
+        }],
+        "selectWays": [{
+            "name": "默认玩法",
+            "type": 0,
+            "isSelect": 1
+        }]
+    }]
+}
